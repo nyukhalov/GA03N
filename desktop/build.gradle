@@ -4,7 +4,7 @@ run {
     ignoreExitValue = true
 }
 
-mainClassName = "com.badlogic.gradletest.DesktopLauncher"
+mainClassName = "com.github.nyukhalov.ga03n.DesktopLauncher"
 
 sourceSets.main.resources.srcDirs = [file("./assets").getAbsolutePath()]
 
