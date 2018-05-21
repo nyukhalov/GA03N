@@ -5,7 +5,7 @@ An example of using a genetic algorithm with a neural network written on java.
 
 ## Run the app
 
-Run the following command if you are on linux
+Run the following command if you are on linux / MAC
 ```bash
 ./gradlew run
 ```
